@@ -1,0 +1,5 @@
+{
+  "name": "שגרת אירוח שבועית",
+  "description": "An application to help users manage and maintain a simple weekly hosting routine at home, with task lists, shopping lists, and quick actions.",
+  "requestFramePermissions": []
+}
